@@ -2,7 +2,7 @@
 
 **Name:** Jianing Li  
 **Student ID:** A0330643M  
-**Email:** jianing.li@mail.utoronto.ca  
+**Email:** E1561405@u.nus.edu
 
 ---
 
@@ -26,7 +26,6 @@ to optimize out-of-sample performance.
 **Python version:** 3.13  
 Install dependencies with:
 
-```bash
 pip install -r requirements.txt
 
 All random seeds are fixed for reproducibility:
