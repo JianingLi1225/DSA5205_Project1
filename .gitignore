@@ -1,0 +1,10 @@
+Data/Input/*.csv
+Data/Input/*.csv
+Data/Input/*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Data/Input/*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
